@@ -1,0 +1,11 @@
+<?php
+
+define("CONSUMERKEY", "gAQyhxn08f1Gjzyzm91jHQ");
+define("CONSUMERSECRET", "gQo2BkTUiFGqmEDyLSd808iRapAN62IEtP4tiPRfJYw");
+define("OUTHTOKEN", "285444470-Q7lp4GVBm2mXzoCQO8mi8PS5jN9t73P4PMSYGSC7");
+define("OUTHSECRET", "ZN6tXhBSr4xNPV4gx29pnYZogcsIE3DCCorxjd4");
+define("FEEDSLIMIT", 5);
+
+ 
+
+?>
